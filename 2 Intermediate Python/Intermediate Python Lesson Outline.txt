@@ -1,0 +1,95 @@
+Matplotlib - Data visualization is a key skill for aspiring data scientists. Matplotlib makes it easy to create meaningful and insightful plots. In this chapter, you'll learn how to build various types of plots, and customize the to be more visually appealing and interpretable.
+Basic plots with Matplotlib
+- Line Plot(1)
+- Line Plot(2): Interpretation
+- Line Plot(3)
+- Scatterplot(1)
+- Scatterplot(2)
+Histogram
+- Build a histogram(1)
+- Build a histogram(2): bins
+- Build a histogram(3): compare
+- Choose the right plot(1)
+- Choose the right plot(2)
+Customization
+- Labels
+- Ticks
+- Sizes
+- Colors
+- Additional Customizations
+- Interpretation
+
+Dictionaries and Pandas - Learn about the dictionary, an alternative to the Python list, and the pandas Dataframe, the de facto standard to work with tabular data in Python. You will get hands-on practice with creating and manipulating datasets, and you'll learn how to access the information you need from these data structures.
+Dictionaries Part 1
+- Motivation for dictionaries
+- Create dictionary
+- Access dictionary
+Dictionaries Part 2
+- Dictionary Manipulation(1)
+- Dictionary Manipulation(2)
+- Dictionariception
+Pandas Part 1
+- Dictionary to Dataframe(1)
+- Dictionary to Dataframe(2)
+- CSV to Dataframe
+Pandas Part 2
+- Square Brackets(1)
+- Square Brackets(2)
+- loc and iloc(1)
+- loc and iloc(2)
+- loc and iloc(3)
+
+Boolean Logic is the foundation of decision-making in Python programs. Learn about different comparison operators, how to combine them with Boolean operators, and how to use the Boolean outcomes in control structures. You'll also learn to filter data in pandas Dataframes using logic.
+Comparison Operators
+- Equality
+- Greater and less than
+- Compare Arrays
+Boolean Operators
+- and, or, not(1)
+- and, or, not(2)
+- Boolean operators with NumPy
+if, elif, else
+- Warmup
+- if
+- add else
+- customize further: elif
+Filtering pandas Dataframes
+- Driving right (1)
+- Driving right (2)
+- Cars per capita(1)
+- Cars per capita(2)
+
+Loops - There are several techniques you can use to repeatedly execute Python code. While loops are like repeated if statement, the for loop iterates over all kinds of data structures. Learn all about them in this chapter.
+while loop
+- while: warming up
+- Basic while loop
+- Add conditionals
+for loop
+- Loop over a list
+- Indexes and values(1)
+- Indexes and values(2)
+- Loop over list of lists
+Loop data Structures Part 1
+- Loop over dictionary
+- Loop over NumPy array
+Loop Data Structures Part 2
+- Loop over Dataframe(1)
+- Loop over Dataframe(2)
+- Add column(1)
+- Add column(2)
+
+Case Study: Hacker Statistics - This chapter will allow you to apply all the concepts you've learned in this course. You will use hacker statistics to calculate your chances of winning a bet. Use random number generators, loops, and Matplotlib to gain a competitive edge.
+Random Numbers
+- Random Float
+- Roll the dice
+- Determine your next move
+Random Walk
+- The next step
+- How low can you go?
+- Visualize the walk
+Distribution
+- Simulate multiple walks
+- Visualize all walks
+- Implement clumsiness
+- Plot distribution
+- Calculate the odds
